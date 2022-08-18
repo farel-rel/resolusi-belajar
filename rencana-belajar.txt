@@ -3,7 +3,11 @@ Rencana belajar
 - Javascript
  * ES6
  * Framework Javascript
- ^ Angular
  ^ React  
+ ^ Vue
+- Struktur data dasar
+- PHP Framewroks
+ ^ Laravel
 - Phyton
 - MySQL
+- PHP Framework
