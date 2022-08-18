@@ -1,4 +1,7 @@
 Resolusi Belajar
 - HTML 
 - CSS
-- GIT & GITHUB
+- CSS3
+- API
+- PHP
+- Javascript
