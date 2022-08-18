@@ -3,5 +3,6 @@ Rencana belajar
 - Javascript
  * ES6
  * Framework Javascript
+- Struktur data dasar 
 - Phyton
 - MySQL
