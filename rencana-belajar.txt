@@ -1,5 +1,7 @@
 Rencana belajar
 
 - Javascript
+ * ES6
+ * Framework Javascript
 - Phyton
-- MYsql
+- MySQL
